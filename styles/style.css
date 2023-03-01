@@ -1,3 +1,4 @@
-p {
-  color: red;
+html {
+  font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'Comfortaa', cursive;: здесь должно быть имя шрифта из Google fonts
 }
